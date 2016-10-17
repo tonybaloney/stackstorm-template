@@ -1,0 +1,13 @@
+{
+	"full_name": "Anthony Shaw",
+	"email": "anthonyshaw@apache.org",
+	"github_username": "tonybaloney",
+	"project_name": "Python Boilerplate",
+	"project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+	"project_short_description": "StackStorm Boilerplate contains all the boilerplate you need to create a pack.",
+	"release_date": "2016-04-04",
+	"pypi_username": "{{ cookiecutter.github_username }}",
+	"year": "{{ cookiecutter.release_date[:4] }}",
+	"version": "0.1.0",
+	"use_pypi_deployment_with_travis": "y"
+}

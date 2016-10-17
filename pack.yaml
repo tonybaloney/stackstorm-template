@@ -1,0 +1,8 @@
+---
+name : {{cookiecutter.project_slug}}
+description : {{cookiecutter.project_short_description}}
+keywords:
+  - things
+version : {{cookiecutter.version}}
+author : {{cookiecutter.full_name}}
+email : {{cookiecutter.email}}
